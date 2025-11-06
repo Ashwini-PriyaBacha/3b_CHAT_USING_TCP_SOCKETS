@@ -60,7 +60,8 @@ s.close()
 ```
 
 ## OUTPUT
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/c1d1e800-efa4-443f-81e6-ca3240b895f3" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/7e1f4b55-0a7e-4e59-a5d4-b4f224c29fb4" />
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
